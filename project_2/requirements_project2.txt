@@ -1,0 +1,4 @@
+numpy==1.23.2
+jupyterlab==3.4.5
+matplotlib==3.5.3
+cvxpy==1.1.17
